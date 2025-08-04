@@ -10,7 +10,7 @@
 https://www.kaggle.com/datasets/arshid/iris-flower-dataset
 
 # Project Demo: 
-1. Video Tutorial: [Iris Flower Classification]()
+1. Video Tutorial: [Iris Flower Classification](https://youtu.be/6fbHdplfkMg)
 
 # Check out My Projects & Resume
 1. Personal Website: [https://nishchal-kansara.web.app/](https://nishchal-kansara.web.app/)
